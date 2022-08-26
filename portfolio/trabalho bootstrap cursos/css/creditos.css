@@ -1,0 +1,16 @@
+.creditos
+    {
+    text-decoration: none;
+    color: black;   
+    }
+
+ .creditos:hover
+    {
+        text-decoration: none;
+        color: #ef9761;
+    }   
+.texto
+    {
+        color: black;
+        text-shadow: 3px 3px 15px #737374;
+    }

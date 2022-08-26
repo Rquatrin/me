@@ -1,0 +1,126 @@
+.navbar1{
+    padding-top: 10%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 20%;
+    background-color: #7e7e7e;
+    text-align: center;
+    
+}
+
+.imagem{
+    border: solid 5px #575757;
+}
+
+.link{
+    border: 1px solid #000000;
+    margin: 10%;
+    color: #ffffff;
+    background-color: #000000;
+    border-radius: 5px;
+}
+
+.link:hover{
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    color:#7e7e7e
+}
+
+.inicio{
+    padding-top: 7%;
+    text-shadow: 5px #7e7e7e;
+}
+
+.margemit{
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.ativb{
+    border-bottom: solid 2px #7e7e7e;
+
+}
+
+.ativt{
+    border-top: solid 2px #7e7e7e;
+    margin-top: 50px;
+
+}
+
+.t-d-n{
+    text-decoration: none;
+}
+
+.separador{
+    padding-top: 80px;
+    
+}
+
+.telatoda {
+ height: 100vh;
+ width: 100vw;
+}
+
+.ativid:hover ~ span {
+    display: block;
+  }
+  
+.span1 {
+    display: none;
+    color: #fff;
+    background-color: rgba(61, 61, 61, 0.441);
+    width: 60%;
+    padding: 10px;
+    border-radius: 4px;
+    position: relative;
+    top: -100px;
+    left: 50%;
+  }
+
+#fixo{
+    position: fixed;
+}
+
+.icontato{
+    text-decoration: none;
+    color: #7e7e7e;
+    padding: 10px;
+
+}
+
+.icontato:hover{
+    color: #575757;
+    text-decoration: none;
+}
+
+.itec{
+    color: #000000;
+    padding-right: 10px;
+}
+
+.texto{
+    margin-top:100px;
+}
+
+.contato{
+    margin-top: 300px;
+}
+.font{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.trilha{
+    padding-top: 300px;
+    
+    padding-bottom: 100px;
+}
+
+.prof{
+    padding-top: 100px;
+}
+
+.navbarmobile{
+    background-color: #7e7e7e;
+    text-align: center;
+    
+}

@@ -1,0 +1,60 @@
+h1
+    {
+    color: #ffffff;
+    background: #91684A;
+    border-radius: 10px 10px 10px 10px;
+    text-shadow: 4px 3px 0 #DFB79A;
+    margin-left: 300px;
+    margin-right: 300px;
+    }
+body    
+    {
+    background-color:#FFE0C9;
+    font-family: "times new roman",verdana,arial;
+    }
+
+header
+    {
+    border: solid #000000 ;
+    border-radius: 10px 10px 10px 10px;
+    background-color: 
+    }
+
+nav {
+    border-radius:  10px 10px 10px 10px;
+    border: solid 2px #91684A;
+    background-color: #99D8DE;
+    margin-left: 600px;
+    margin-right: 600px;
+    }
+
+footer
+    {
+        border-radius:  10px 10px 10px 10px;
+        border: solid 2px #91684A;
+        background-color: #99D8DE;
+        margin-left: 600px;
+        margin-right: 600px
+    }
+a:link  /*link*/
+    {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 10px 10px 10px 10px;
+    }
+
+a:hover /*quando passo o mouse em cima*/
+    {
+    background-color: rgb(190, 175, 175);
+    }
+
+a:visited   /*link clicado*/
+    {
+    color: #ffffff;
+    text-align: center;
+    }
+.estilo_tabela
+    {border: solid 2px #91684A
+
+    }

@@ -1,0 +1,157 @@
+body
+
+    {margin-top: 60px;
+    background-image: linear-gradient( rgb(98, 0, 143), rgb(25, 0, 138));
+    height: 140vh;
+    width: 88vw;
+    text-align: center;
+    margin-bottom: 40px;}
+
+.conteudo
+
+    {width: 70%;
+    background-color: #242323;
+    margin: auto; /*aqui ele mudará todas os lados da margem*/
+    border: 1px solid #000000;
+    border-radius: 10px 10px 10px 10px; /*aqui é feito a borda arredondada*/
+    box-shadow: 10px 10px 20px -8px #000000;} /*aqui é feito o sombreamento*/
+    
+header
+    
+    {margin: auto;
+    padding-top: 1px;
+    text-align: center;
+    background-color: #BB33EB;
+    border-radius: 10px;}
+
+header img
+    
+    {max-width:400px;
+    max-height:200px;
+    width: auto;
+    height: auto;}
+
+main
+
+    {background-color: #9A61E6;
+    margin-top: 18px;
+    border-radius:10px 10px 0px 0px ;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;}
+
+main h3
+
+    {font-family:'Patua One', cursive;
+    font-size:x-large;}
+
+main h2
+ 
+    {font-family: 'Patua One', cursive;
+    font-size: xx-large;}
+
+main img
+    
+    {border: solid 2px #00ff0d;
+    border-radius: 10px;}
+
+nav
+
+    {background-color:#242323;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patua One', cursive;
+    margin-top: 16px;}
+
+nav a
+
+   {background-color: #242323;/*fundo do nav(itens <a>)*/
+    color: #00ff4c;
+    padding: 3px;
+    margin-bottom: 15px;
+    margin-right: 4px;
+    width: 180px;
+    text-align: center;
+    text-decoration: none;/*tirando o sublinhado dos itens do nav*/
+    font-size: 23px;
+    transform: rotate(-10deg); /*propriedade para girar a tag <a>, tem outras funções*/
+    border-radius: 5px 5px 5px 5px;}
+ 
+nav a:hover
+
+    {background-color: #00ff0d;
+    color: #000000;}
+
+footer
+
+    {border-radius: 0px 0px 10px 10px;
+    margin: auto; 
+    text-align: center;
+    padding-top: 10px;
+    background-color: #9A61E6;
+    padding-bottom: 5px;
+    font-family: 'Patua One', cursive;}
+
+section main
+
+    {text-align: center;}
+
+div
+
+    {border: solid 4px #070707;
+    border-radius: 10px;
+    background-color: #242323;}
+
+section main p
+   
+    {width: 50%;
+    text-align: justify;
+    text-indent: 1.5em;
+    font-family: 'Patua One', cursive;}
+
+
+div a:hover
+
+    {width: 50px;
+    border-bottom:solid 4px #00ff0d;
+    border-radius: 10px;}
+    
+    
+.topo
+
+    {display: inline-flex ;
+    float: right;
+    margin-top: -10px; 
+    margin-right: 2px;}
+
+label
+
+    {margin-top: 20px;}
+
+label input
+
+    {width: 250px;
+    height: 25px;
+    border: solid 1px #000000;
+    background-color: #242323;
+    border-radius: 10px;
+    font-family: 'Patua One', cursive;
+    color: #666666;
+    box-shadow: 5px 5px 15px -8px #000000;}
+
+label button
+
+    {background-color: #242323;
+    height: 28px;
+    border: solid 1px #000000;
+    border-radius: 10px;
+    font-family:'Patua One', cursive ;
+    color:#666666;
+    box-shadow: 5px 5px 15px -8px #000000;}
+
+iframe
+ 
+    {border: solid 2px #00ff0d;
+    border-radius: 10px;}
+    
